@@ -26,22 +26,22 @@ Täthet = Befolkningstäthet (invånare/km² land) (2016-12-31 och 2015-01-01)
 
 Öppna gärna ett issue eller pinga mig om ni hittar felaktigheter och/eller vill uppdatera ngn kolumn eller data
 
-```js
+```js 
 {
-    "admin": "Dalarnas l\u00e4n", // Länets namn
-    "area": 812.32, // Total area i km2
-    "boundsNeLat": 60.6632441, 
-    "boundsNeLng": 15.2864281,
-    "boundsSwLat": 60.2714809,
-    "boundsSwLng": 14.554339,
-    "centerLat": 60.4527768,
-    "centerLng": 14.8480045,
-    "code": 2026, // kommunkod
-    "lakeArea": 45.17, // Sjöarea i km2
-    "landArea": 767.15, // Landarea i km2
-    "name": "Gagnefs kommun", // Namn
-    "population": 10014, // Befolkningsmängd
-    "populationDensity": 13.05, // Befolkningsmängd per km2
-    "seaArea": 0 // Havsarea i km2
-  }
+    "admin": "Stockholms l\u00e4n", // Länets namn
+        "area": 83.82, // Total area i km2
+        "areaLake": 4.84, // Sjöarea i km2
+        "areaLand": 75.01, // Landarea i km2
+        "areaSea": 0.00, // Havsarea i km2
+        "boundsNeLat": 59.5576182,
+        "boundsNeLng": 18.0040651,
+        "boundsSwLat": 59.4582726,
+        "boundsSwLng": 17.8572368,
+        "centerLat": 59.51961,
+        "centerLng": 17.92834,
+        "code": 114, // kommunkod
+        "name": "Upplands V\u00e4sby kommun", // Namn
+        "population": 43891.00, // Befolkningsmängd
+        "populationDensity": 585.14 // Befolkningsmängd per km2
+ }
 ```
