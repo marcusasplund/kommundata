@@ -4,9 +4,16 @@ Data om svenska kommuner
 Källor: 
 Bounds o centerpoints är gjorda med Google geolocation API 20150528
 
-Kommunkoder SCB 2011-2012
-
-Areor o befolkning Wikipedia 2013-01-01
+Kommunkoder, areor o befolkning [Wikipedia](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_kommuner) 2017-05-03
+Kod = Kommunkod
+Kommun = Kommun
+Län = Län
+Folkmängd = Folkmängd (2016-12-31)[1]
+Area = Totalareal, inklusive havsvattenareal (km²) (2015-01-01)
+Land = Landareal (km²) (2015-01-01)[2]
+Sjö = Inlandsvattenareal, exklusive de fyra största sjöarna (km²) (2015-01-01)
+Hav = Havsvattenareal (km²) (2015-01-01)[2]
+Täthet = Befolkningstäthet (invånare/km² land) (2016-12-31 och 2015-01-01)
 
 Öppna gärna ett issue eller pinga mig om ni hittar felaktigheter och/eller vill uppdatera ngn kolumn eller data
 
