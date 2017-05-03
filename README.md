@@ -10,7 +10,7 @@ Areor o befolkning Wikipedia 2013-01-01
 
 Öppna gärna ett issue eller pinga mig om ni hittar felaktigheter och/eller vill uppdatera ngn kolumn eller data
 
-```json
+```js
 {
     "admin": "Dalarnas l\u00e4n", // Länets namn
     "area": 812.32, // Total area i km2
