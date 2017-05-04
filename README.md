@@ -1,8 +1,16 @@
 # kommundata
 Data om svenska kommuner
 
+.json o .csv
+
+Filen Svenska kommuner_2017_data_geo_kml.csv innehåller en kolumn med .kml också.
+
+Den finns även som en [Google Fusion Table](https://www.google.com/fusiontables/DataSource?docid=1lAVWY2Hdmxxi4_4-e75XrdKnMrAzs8U25VgReOzx)
+
 Källor: 
 Bounds o centerpoints är gjorda med Google geolocation API 20150528
+
+kml-datan är tagen från [Natural Earth Data](http://www.naturalearthdata.com/)
 
 Kommunkoder, areor o befolkning [Wikipedia](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_kommuner) 2017-05-03
 
